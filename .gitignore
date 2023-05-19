@@ -1,2 +1,8 @@
+#Ignorar a pasta image
+*.png
 /image
-.generateAll.sh
+```
+
+#ignorar arquivos .sh
+*.sh
+```
