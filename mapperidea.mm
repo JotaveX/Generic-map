@@ -4408,7 +4408,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1658500602776" ID="ID_1225386602" MODIFIED="1684397025433" TEXT="list">
+<node CREATED="1658500602776" FOLDED="true" ID="ID_1225386602" MODIFIED="1684485987775" TEXT="list">
 <icon BUILTIN="Descriptor.grouping"/>
 <node CREATED="1642765134032" FOLDED="true" ID="ID_1931830464" MODIFIED="1684398014718" TEXT="listComponentTS">
 <icon BUILTIN="element"/>
@@ -5016,7 +5016,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1643022678681" ID="ID_1866126329" MODIFIED="1684398015721" TEXT="listComponentHTML">
+<node CREATED="1643022678681" FOLDED="true" ID="ID_1866126329" MODIFIED="1684485939203" TEXT="listComponentHTML">
 <icon BUILTIN="element"/>
 <node CREATED="1641817891685" FOLDED="true" ID="ID_19932286" MODIFIED="1684397019356" TEXT="parameters">
 <icon BUILTIN="element"/>
@@ -5344,7 +5344,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1643027070166" ID="ID_1259041347" MODIFIED="1684398033375" TEXT="listEntidades">
+<node CREATED="1643027070166" FOLDED="true" ID="ID_1259041347" MODIFIED="1684485938488" TEXT="listEntidades">
 <icon BUILTIN="Descriptor.grouping"/>
 <node CREATED="1643025242014" ID="ID_683972012" MODIFIED="1684398033386" TEXT="inicioListaEntidades">
 <icon BUILTIN="element"/>
@@ -5712,9 +5712,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1658500604383" FOLDED="true" ID="ID_1500156651" MODIFIED="1684397019361" TEXT="details">
+<node CREATED="1658500604383" ID="ID_1500156651" MODIFIED="1684485991021" TEXT="details">
 <icon BUILTIN="Descriptor.grouping"/>
-<node CREATED="1642422161038" FOLDED="true" ID="ID_957406446" MODIFIED="1675142405560" TEXT="detailsComponentTS">
+<node CREATED="1642422161038" FOLDED="true" ID="ID_957406446" MODIFIED="1684485993713" TEXT="detailsComponentTS">
 <icon BUILTIN="element"/>
 <node CREATED="1641817891685" FOLDED="true" ID="ID_911661603" MODIFIED="1665771090486" TEXT="parameters">
 <icon BUILTIN="element"/>
@@ -6738,7 +6738,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1643369107153" FOLDED="true" ID="ID_1241414392" MODIFIED="1675142409642" TEXT="detailsComponentHTML">
+<node CREATED="1643369107153" ID="ID_1241414392" MODIFIED="1684485994182" TEXT="detailsComponentHTML">
 <icon BUILTIN="element"/>
 <node CREATED="1641817891685" FOLDED="true" ID="ID_1026036948" MODIFIED="1666585204132" TEXT="parameters">
 <icon BUILTIN="element"/>
@@ -6836,9 +6836,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1641818172197" FOLDED="true" ID="ID_1137246867" MODIFIED="1684397019361" TEXT="patterns">
+<node CREATED="1641818172197" ID="ID_1137246867" MODIFIED="1684485995100" TEXT="patterns">
 <icon BUILTIN="element"/>
-<node CREATED="1641818175885" FOLDED="true" ID="ID_95745061" MODIFIED="1684397019361" TEXT="declaraEditor">
+<node CREATED="1641818175885" FOLDED="true" ID="ID_95745061" MODIFIED="1684486613644" TEXT="declaraEditor">
 <icon BUILTIN="element"/>
 <node CREATED="1641818194769" ID="ID_1390860986" MODIFIED="1643369768837" TEXT="  &lt;div&gt;">
 <icon BUILTIN="tag_green"/>
@@ -6854,19 +6854,19 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1643370041192" FOLDED="true" ID="ID_1562041914" MODIFIED="1684397019361" TEXT="declaraForm">
+<node CREATED="1643370041192" FOLDED="true" ID="ID_1562041914" MODIFIED="1684486688373" TEXT="declaraForm">
 <icon BUILTIN="element"/>
-<node CREATED="1643369938690" ID="ID_1968535241" MODIFIED="1643369940586" TEXT="      &lt;form&gt;">
+<node CREATED="1643369938690" ID="ID_1968535241" MODIFIED="1684486647223" TEXT="      &lt;div&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1643370045149" FOLDED="true" ID="ID_765784573" MODIFIED="1684397019361" TEXT="fechaForm">
+<node CREATED="1643370045149" FOLDED="true" ID="ID_765784573" MODIFIED="1684486687869" TEXT="fechaForm">
 <icon BUILTIN="element"/>
-<node CREATED="1643370069647" ID="ID_1515527740" MODIFIED="1643370071824" TEXT="      &lt;/form&gt;">
+<node CREATED="1643370069647" ID="ID_1515527740" MODIFIED="1684486651584" TEXT="      &lt;/div&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1641818178589" FOLDED="true" ID="ID_1892914156" MODIFIED="1675137351401" TEXT="fechaEditor">
+<node CREATED="1641818178589" FOLDED="true" ID="ID_1892914156" MODIFIED="1684486686817" TEXT="fechaEditor">
 <icon BUILTIN="element"/>
 <node CREATED="1643369637954" ID="ID_686610359" MODIFIED="1643369641851" TEXT="    &lt;/div&gt;">
 <icon BUILTIN="tag_green"/>
@@ -6878,57 +6878,36 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1641989133501" FOLDED="true" ID="ID_662807880" MODIFIED="1684397019361" TEXT="declaraCampo">
+<node CREATED="1641989133501" FOLDED="true" ID="ID_662807880" MODIFIED="1684487115171" TEXT="declaraCampo">
 <icon BUILTIN="Descriptor.grouping"/>
-<node CREATED="1641988126215" FOLDED="true" ID="ID_508861321" MODIFIED="1675137357694" TEXT="inicioDeclaraCampo">
+<node CREATED="1641988126215" ID="ID_508861321" MODIFIED="1684486000464" TEXT="inicioDeclaraCampo">
 <icon BUILTIN="element"/>
-<node CREATED="1641988146930" ID="ID_920555648" MODIFIED="1641988470611" TEXT="      &lt;div class=&quot;form-group&quot;&gt;">
+<node CREATED="1641988146930" ID="ID_920555648" MODIFIED="1684486933332" TEXT="        &lt;mat-form-field appearance=&quot;fill&quot;&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1641988146930" ID="ID_153980252" MODIFIED="1641988694581" TEXT="        &lt;label for=&quot;{{ $classAttribute/@name }}&quot;&gt;{{ $label }}&lt;/label&gt;">
+<node CREATED="1641988146930" ID="ID_153980252" MODIFIED="1684486773780" TEXT="        &lt;mat-label&gt;{{ $label }}&lt;/mat-label&gt; ">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1641988146931" ID="ID_424436857" MODIFIED="1641988470611" TEXT="        &lt;input">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1641988146931" ID="ID_401237047" MODIFIED="1641988470612" TEXT="          type=&quot;text&quot;">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1641988146932" ID="ID_1173527737" MODIFIED="1641988470612" TEXT="          class=&quot;form-control&quot;">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1641988146932" ID="ID_781531411" MODIFIED="1641988784310" TEXT="          id=&quot;{{ $classAttribute/@name }}&quot;">
+<node CREATED="1641988146931" ID="ID_424436857" MODIFIED="1684486939554" TEXT="                  &lt;input matInput [(ngModel)]=&quot;{{ $editorEntity/@name }}.{{ $classAttribute/@name }}&quot;">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1641989105432" FOLDED="true" ID="ID_1540919775" MODIFIED="1675137303821" TEXT="declaraRequerido">
+<node CREATED="1641989105432" ID="ID_1540919775" MODIFIED="1684486876020" TEXT="declaraRequerido">
 <icon BUILTIN="element"/>
-<node CREATED="1641988146932" ID="ID_426188677" MODIFIED="1641988470612" TEXT="          required">
+<node CREATED="1641988146932" ID="ID_426188677" MODIFIED="1684486922679" TEXT="          required&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1641988126215" FOLDED="true" ID="ID_461641188" MODIFIED="1675137305442" TEXT="fechaDeclaraCampo">
+<node CREATED="1641988126215" ID="ID_461641188" MODIFIED="1684486876570" TEXT="fechaDeclaraCampo">
 <icon BUILTIN="element"/>
-<node CREATED="1641988146932" ID="ID_254797884" MODIFIED="1641988881053" TEXT="          [(ngModel)]=&quot;{{ $editorEntity/@name }}.{{ $classAttribute/@name }}&quot;">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1641988146932" ID="ID_591086910" MODIFIED="1641988790271" TEXT="          name=&quot;{{ $classAttribute/@name }}&quot;">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1641988146933" ID="ID_1688444506" MODIFIED="1641988470613" TEXT="        /&gt;">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1641988146933" ID="ID_1062847502" MODIFIED="1641988470614" TEXT="      &lt;/div&gt;">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1641991380240" ID="ID_671061938" MODIFIED="1641991382921" TEXT="">
+<node CREATED="1641988146932" ID="ID_1173527737" MODIFIED="1684486821148" TEXT="        &lt;/mat-form-field&gt; ">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
 </node>
-<node CREATED="1643370763189" FOLDED="true" ID="ID_1042552811" MODIFIED="1684397019361" TEXT="declaraCampoViewer">
+<node CREATED="1643370763189" FOLDED="true" ID="ID_1042552811" MODIFIED="1684487114371" TEXT="declaraCampoViewer">
 <icon BUILTIN="Descriptor.grouping"/>
-<node CREATED="1643370773576" FOLDED="true" ID="ID_1581721074" MODIFIED="1675137323658" TEXT="declaraCampoViewer">
+<node CREATED="1643370773576" FOLDED="true" ID="ID_1581721074" MODIFIED="1684486973536" TEXT="declaraCampoViewer">
 <icon BUILTIN="element"/>
 <node CREATED="1643370796546" ID="ID_1061998802" MODIFIED="1643370815627" TEXT="        &lt;div class=&quot;form-group&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -6957,7 +6936,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1643372059545" FOLDED="true" ID="ID_1643949859" MODIFIED="1675137341974" TEXT="declaraViewerActionButtons">
+<node CREATED="1643372059545" ID="ID_1643949859" MODIFIED="1684486974119" TEXT="declaraViewerActionButtons">
 <icon BUILTIN="element"/>
 <node CREATED="1643372087184" ID="ID_719078490" MODIFIED="1643372088496" TEXT="">
 <icon BUILTIN="tag_green"/>
@@ -7006,7 +6985,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1643372752795" FOLDED="true" ID="ID_228900776" MODIFIED="1675137419566" TEXT="declaraBotoesPadraoForm">
+<node CREATED="1643372752795" ID="ID_228900776" MODIFIED="1684487001565" TEXT="declaraBotoesPadraoForm">
 <icon BUILTIN="element"/>
 <node CREATED="1643372855520" ID="ID_119197996" MODIFIED="1643372856677" TEXT="">
 <icon BUILTIN="tag_green"/>
