@@ -20,12 +20,13 @@
 
 <br>
 
+
 ## 2. Gerar o codigo bash
 
 - Dar o comando:
 
 ```bash
-mi g *nomeDoMapa* mean bashGenerateAll > generateAll.sh
+mi g app mean bashGenerateAll > generateAll.sh
 ```
 
 - Ir no terminal e dar o comando:
@@ -33,3 +34,42 @@ mi g *nomeDoMapa* mean bashGenerateAll > generateAll.sh
 ```bash
 ./generateAll.sh
 ```
+
+<br>
+
+## Importante
+
+<br>
+
+### 1. Nome do seu mapa
+
+<br>
+
+- O nome do seu mapa deve ser **app**. Para isso você vai ter que dar o seguinte comando em seu terminal:
+
+- Estar na pasta do seu mapa de negocio
+
+
+```bash
+mi i app *nomeDoSeuArquivo*
+```
+
+
+- **Exemplo:**
+
+```bash
+mi i app mdm.mm
+```
+
+### 2. Plural
+
+<br>
+
+- Todas suas classes devem ter uma propriedade plural. Para isso você vai ter que dar o seguinte comando em seu mapa de negocio:
+
+<br>
+
+<p align="center">
+    <img src="./image/plural.png" height="100">
+</p>
+

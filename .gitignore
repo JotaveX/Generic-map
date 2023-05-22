@@ -1,3 +1,7 @@
 #ignorar arquivos .sh
 *.sh
 ```
+
+# Ignorar as pastas frontend e backend
+/frontend
+/backend
