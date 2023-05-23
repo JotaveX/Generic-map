@@ -217,9 +217,9 @@
 </node>
 <node CREATED="1657542298359" ID="ID_648190111" MODIFIED="1684806244461" POSITION="right" TEXT="generators">
 <icon BUILTIN="element"/>
-<node CREATED="1638532646585" ID="ID_1972588312" MODIFIED="1684804081164" TEXT="mean">
+<node CREATED="1638532646585" FOLDED="true" ID="ID_1972588312" MODIFIED="1684823625968" TEXT="mean">
 <icon BUILTIN="element"/>
-<node CREATED="1638532674425" FOLDED="true" ID="ID_279417295" MODIFIED="1684822248014" TEXT="mongoModel">
+<node CREATED="1638532674425" FOLDED="true" ID="ID_279417295" MODIFIED="1684803773102" TEXT="mongoModel">
 <icon BUILTIN="element"/>
 <node CREATED="1559604105984" ID="ID_1926980450" MODIFIED="1684515181240" TEXT="parameters">
 <font BOLD="true" NAME="Dialog" SIZE="14"/>
@@ -2935,7 +2935,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665098578835" ID="ID_298308379" MODIFIED="1684806290619" TEXT="server">
+<node CREATED="1665098578835" FOLDED="true" ID="ID_298308379" MODIFIED="1684823624348" TEXT="server">
 <icon BUILTIN="element"/>
 <node CREATED="1659305492723" ID="ID_360526106" MODIFIED="1684515182131" TEXT="start">
 <icon BUILTIN="element"/>
@@ -3022,7 +3022,7 @@
 <node CREATED="1665098976644" ID="ID_49426723" MODIFIED="1665099056527" TEXT="var corsOptions = { ">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1665098985787" ID="ID_458283011" MODIFIED="1684822828364" TEXT="  origin: &quot;http://localhost:4200&quot; ">
+<node CREATED="1665098985787" ID="ID_458283011" MODIFIED="1665099056528" TEXT="  origin: &quot;http://localhost:8081&quot; ">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1665098993502" ID="ID_1170697203" MODIFIED="1665099056528" TEXT="}; ">
@@ -4413,7 +4413,7 @@
 </node>
 <node CREATED="1658500602776" ID="ID_1225386602" MODIFIED="1684515182592" TEXT="list">
 <icon BUILTIN="Descriptor.grouping"/>
-<node CREATED="1642765134032" FOLDED="true" ID="ID_1931830464" MODIFIED="1684805294621" TEXT="listComponentTS">
+<node CREATED="1642765134032" ID="ID_1931830464" MODIFIED="1684826968596" TEXT="listComponentTS">
 <icon BUILTIN="element"/>
 <node CREATED="1641817891685" ID="ID_905424789" MODIFIED="1684515182626" TEXT="parameters">
 <icon BUILTIN="element"/>
@@ -4444,7 +4444,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1642422223083" FOLDED="true" ID="ID_496062278" MODIFIED="1684515196255" TEXT="body">
+<node CREATED="1642422223083" ID="ID_496062278" MODIFIED="1684826986652" TEXT="body">
 <icon BUILTIN="element"/>
 <node CREATED="1641818861705" ID="ID_824143183" MODIFIED="1684515182644" TEXT="vars">
 <icon BUILTIN="element"/>
@@ -4625,7 +4625,7 @@
 </node>
 <node CREATED="1642767489870" ID="ID_443706317" MODIFIED="1684515182674" TEXT="declaraSearchableFunctions">
 <icon BUILTIN="Descriptor.grouping"/>
-<node CREATED="1639744314124" ID="ID_1008428398" MODIFIED="1684515182675" TEXT="if">
+<node CREATED="1639744314124" FOLDED="true" ID="ID_1008428398" MODIFIED="1684827004778" TEXT="if">
 <icon BUILTIN="element"/>
 <node CREATED="1639744318892" ID="ID_593000392" MODIFIED="1639744340104" TEXT="exists($atributosSearchable )">
 <icon BUILTIN="tag_green"/>
@@ -6981,9 +6981,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1665516345016" ID="ID_1029355571" MODIFIED="1684515183167" TEXT="app.component">
+<node CREATED="1665516345016" FOLDED="true" ID="ID_1029355571" MODIFIED="1684823775133" TEXT="app.component">
 <icon BUILTIN="Descriptor.grouping"/>
-<node CREATED="1665516366010" ID="ID_1202107284" MODIFIED="1684806244483" TEXT="appComponentTS">
+<node CREATED="1665516366010" FOLDED="true" ID="ID_1202107284" MODIFIED="1684823771422" TEXT="appComponentTS">
 <icon BUILTIN="element"/>
 <node CREATED="1639135985370" ID="ID_778461717" MODIFIED="1684515183170" TEXT="start">
 <icon BUILTIN="element"/>
@@ -7762,7 +7762,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665861120881" FOLDED="true" ID="ID_368291676" MODIFIED="1684767786675" TEXT="listaMenu">
+<node CREATED="1665861120881" FOLDED="true" ID="ID_368291676" MODIFIED="1684823784731" TEXT="listaMenu">
 <icon BUILTIN="element"/>
 <node CREATED="1639135985370" ID="ID_1449642127" MODIFIED="1684515183427" TEXT="start">
 <icon BUILTIN="element"/>
@@ -7847,7 +7847,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665771103506" FOLDED="true" ID="ID_803491834" MODIFIED="1684767803067" TEXT="appRouting">
+<node CREATED="1665771103506" FOLDED="true" ID="ID_803491834" MODIFIED="1684823878336" TEXT="appRouting">
 <icon BUILTIN="element"/>
 <node CREATED="1638532918770" ID="ID_1494961007" MODIFIED="1684515183449" TEXT="start">
 <font BOLD="true" NAME="Dialog" SIZE="16"/>
@@ -8049,7 +8049,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665771103506" FOLDED="true" ID="ID_1668264454" MODIFIED="1684771552157" TEXT="appRoutingChild">
+<node CREATED="1665771103506" FOLDED="true" ID="ID_1668264454" MODIFIED="1684823722804" TEXT="appRoutingChild">
 <icon BUILTIN="element"/>
 <node CREATED="1641817891685" FOLDED="true" ID="ID_1234382054" MODIFIED="1684771546746" TEXT="parameters">
 <icon BUILTIN="element"/>
@@ -8190,7 +8190,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1684771531182" FOLDED="true" ID="ID_1272893070" MODIFIED="1684802155288" TEXT="appModuleChild">
+<node CREATED="1684771531182" FOLDED="true" ID="ID_1272893070" MODIFIED="1684826962720" TEXT="appModuleChild">
 <icon BUILTIN="element"/>
 <node CREATED="1641817891685" ID="ID_1592009119" MODIFIED="1684772300888" TEXT="parameters">
 <icon BUILTIN="element"/>
@@ -8228,6 +8228,12 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
+<node CREATED="1684772037223" ID="ID_1645765912" MODIFIED="1684825675484" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1684772045335" ID="ID_510743377" MODIFIED="1684825691874" TEXT="declaraImportModule">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
 <node CREATED="1665859515862" ID="ID_621347230" MODIFIED="1684515183484" TEXT="write-pattern">
 <icon BUILTIN="element"/>
 <node CREATED="1665859523421" ID="ID_1500526119" MODIFIED="1684772059779" TEXT="inicioNgModule">
@@ -8260,7 +8266,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1638533266833" FOLDED="true" ID="ID_1085414366" MODIFIED="1684802154176" TEXT="patterns">
+<node CREATED="1638533266833" ID="ID_1085414366" MODIFIED="1684824558220" TEXT="patterns">
 <font BOLD="true" NAME="Dialog" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1665771295758" ID="ID_912292916" MODIFIED="1684515183493" TEXT="declaraImport">
@@ -8284,6 +8290,24 @@
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1665771319644" ID="ID_402858291" MODIFIED="1674794545965" TEXT="import { {{ @name }}ListComponent } from &apos;./{{ mi:lower-case-add-hifen(@name,&apos;&apos;) }}-list/{{ mi:lower-case-add-hifen(@name,&apos;&apos;) }}-list.component&apos;; ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1684824564818" ID="ID_1576558277" MODIFIED="1684824575527" TEXT="declaraImportModule">
+<icon BUILTIN="element"/>
+<node CREATED="1684824582719" ID="ID_975162962" MODIFIED="1684824608798" TEXT="import { MatCardModule } from &apos;@angular/material/card&apos;; ">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1684824587230" ID="ID_1541451415" MODIFIED="1684824608798" TEXT="import { MatMenuModule } from &apos;@angular/material/menu&apos;; ">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1684824593582" ID="ID_1314362566" MODIFIED="1684824608798" TEXT="import { MatIconModule } from &apos;@angular/material/icon&apos;; ">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1684824597781" ID="ID_1906711699" MODIFIED="1684824608798" TEXT="import { MatInputModule } from &apos;@angular/material/input&apos;; ">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1684824601823" ID="ID_1394683921" MODIFIED="1684824608796" TEXT="import { FormsModule } from &apos;@angular/forms&apos;; ">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -8325,9 +8349,6 @@
 <node CREATED="1684771867362" ID="ID_1452576570" MODIFIED="1684772413967" TEXT="    AppModule,">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1684772421883" ID="ID_1367408062" MODIFIED="1684792046210" TEXT="    {{ @name }}RoutingModule,">
-<icon BUILTIN="tag_green"/>
-</node>
 <node CREATED="1684792046940" ID="ID_1744859921" MODIFIED="1684792098705" TEXT="    MatCardModule, ">
 <icon BUILTIN="tag_green"/>
 </node>
@@ -8364,7 +8385,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1666126807813" FOLDED="true" ID="ID_586642086" MODIFIED="1684805263888" TEXT="appModule">
+<node CREATED="1666126807813" FOLDED="true" ID="ID_586642086" MODIFIED="1684823885070" TEXT="appModule">
 <icon BUILTIN="element"/>
 <node CREATED="1639135985370" ID="ID_722877660" MODIFIED="1684515183510" TEXT="start">
 <icon BUILTIN="element"/>
@@ -8675,7 +8696,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1667401544342" FOLDED="true" ID="ID_1422749919" MODIFIED="1684805261409" TEXT="indexHTML">
+<node CREATED="1667401544342" FOLDED="true" ID="ID_1422749919" MODIFIED="1684823715776" TEXT="indexHTML">
 <icon BUILTIN="element"/>
 <node CREATED="1659305492723" ID="ID_1904435071" MODIFIED="1684515183557" TEXT="start">
 <icon BUILTIN="element"/>
@@ -8760,7 +8781,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1674593361995" FOLDED="true" ID="ID_1648605408" MODIFIED="1684767845143" TEXT="generic">
+<node CREATED="1674593361995" FOLDED="true" ID="ID_1648605408" MODIFIED="1684823725918" TEXT="generic">
 <icon BUILTIN="element"/>
 <node CREATED="1674593405235" ID="ID_879153310" MODIFIED="1684515183585" TEXT="class">
 <icon BUILTIN="element"/>
