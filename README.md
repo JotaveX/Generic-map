@@ -85,4 +85,18 @@ mi i app mdm.mm
     <img src="./image/titleAndMongo.png" height="100">
 </p>
 
+### 4. Instalando os pacotes angular
+
+<br>
+
+- É necessario instalar os pacotes do angular material e cdk no frontend. Para isso você vai ter que dar o seguinte comando em seu terminal, dentro da pasta do front:
+
+
+```bash
+npm install @angular/cdk
+```
+
+
+```bash
+npm install --save @angular/material
 
