@@ -73,3 +73,16 @@ mi i app mdm.mm
     <img src="./image/plural.png" height="100">
 </p>
 
+### 3. Titulo e link do mongoDb
+
+<br>
+
+- Dentro do package domain é necessario ter uma propriedade para o titulo e para o link do mongo. Para isso você vai ter que dar o seguinte comando em seu mapa de negocio:
+
+<br>
+
+<p align="center">
+    <img src="./image/titleAndMongo.png" height="100">
+</p>
+
+
