@@ -6981,7 +6981,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665516345016" ID="ID_1029355571" MODIFIED="1684515183167" TEXT="app.component">
+<node CREATED="1665516345016" FOLDED="true" ID="ID_1029355571" MODIFIED="1684939175511" TEXT="app.component">
 <icon BUILTIN="Descriptor.grouping"/>
 <node CREATED="1665516366010" ID="ID_1202107284" MODIFIED="1684806244483" TEXT="appComponentTS">
 <icon BUILTIN="element"/>
@@ -8190,7 +8190,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1684771531182" FOLDED="true" ID="ID_1272893070" MODIFIED="1684802155288" TEXT="appModuleChild">
+<node CREATED="1684771531182" ID="ID_1272893070" MODIFIED="1684939178056" TEXT="appModuleChild">
 <icon BUILTIN="element"/>
 <node CREATED="1641817891685" ID="ID_1592009119" MODIFIED="1684772300888" TEXT="parameters">
 <icon BUILTIN="element"/>
@@ -8260,7 +8260,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1638533266833" FOLDED="true" ID="ID_1085414366" MODIFIED="1684802154176" TEXT="patterns">
+<node CREATED="1638533266833" ID="ID_1085414366" MODIFIED="1684939179664" TEXT="patterns">
 <font BOLD="true" NAME="Dialog" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1665771295758" ID="ID_912292916" MODIFIED="1684515183493" TEXT="declaraImport">
@@ -8269,9 +8269,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1665771319644" ID="ID_1068249095" MODIFIED="1684771639358" TEXT="import { CommonModule } from &apos;@angular/common&apos;; ">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1684771668072" ID="ID_1321189733" MODIFIED="1684771670953" TEXT="import { AppModule } from &apos;src/app/app.module&apos;; ">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1684772362179" ID="ID_668323266" MODIFIED="1684772365390" TEXT="">
@@ -8284,6 +8281,9 @@
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1665771319644" ID="ID_402858291" MODIFIED="1674794545965" TEXT="import { {{ @name }}ListComponent } from &apos;./{{ mi:lower-case-add-hifen(@name,&apos;&apos;) }}-list/{{ mi:lower-case-add-hifen(@name,&apos;&apos;) }}-list.component&apos;; ">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1665771319644" ID="ID_422264094" MODIFIED="1684936772419" TEXT="import { {{ @name }}RoutingModule } from &apos;./{{ mi:lower-case-add-hifen(@name,&apos;&apos;) }}-routing.module&apos;; ">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -8320,9 +8320,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1684771857337" ID="ID_1331399001" MODIFIED="1684772413967" TEXT="    CommonModule, ">
-<icon BUILTIN="tag_green"/>
-</node>
-<node CREATED="1684771867362" ID="ID_1452576570" MODIFIED="1684772413967" TEXT="    AppModule,">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1684772421883" ID="ID_1367408062" MODIFIED="1684792046210" TEXT="    {{ @name }}RoutingModule,">
