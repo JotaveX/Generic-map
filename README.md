@@ -91,6 +91,8 @@ mi i app mdm.mm
 
 - É necessario instalar os pacotes do angular material e cdk no frontend. Para isso você vai ter que dar o seguinte comando em seu terminal, dentro da pasta do front:
 
+- Verifique se as versões do angular no package.json são compativeis 
+
 
 ```bash
 ng add @angular/cdk
@@ -101,7 +103,4 @@ ng add @angular/cdk
 ng add --save @angular/material
 
 
-<br>
-
-- Verifique se as versões do angular no package.json são compativeis 
 
