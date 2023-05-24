@@ -93,10 +93,15 @@ mi i app mdm.mm
 
 
 ```bash
-npm install @angular/cdk
+ng add @angular/cdk
 ```
 
 
 ```bash
-npm install --save @angular/material
+ng add --save @angular/material
+
+
+<br>
+
+- Verifique se as versões do angular no package.json são compativeis 
 
