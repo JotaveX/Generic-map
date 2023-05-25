@@ -100,7 +100,7 @@ ng add @angular/cdk
 
 
 ```bash
-ng add --save @angular/material
+ng add @angular/material
 
 
 
